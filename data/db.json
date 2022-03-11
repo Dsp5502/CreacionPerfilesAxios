@@ -1,0 +1,25 @@
+{
+  "usuario": [
+    {
+      "url": "http://localhost:4000/usuario/",
+      "name": "Pedro",
+      "lastName": "Paramo",
+      "email": "pedro@Rulfo.novel",
+      "id": 3
+    },
+    {
+      "url": "http://localhost:4000/usuario/",
+      "name": "Sebastian",
+      "lastName": "martinez",
+      "email": "sebamart@gmail.com",
+      "id": 4
+    },
+    {
+      "url": "http://localhost:4000/usuario/",
+      "name": "ramiro",
+      "lastName": "meneses",
+      "email": "dsdsd@homtail.com",
+      "id": 5
+    }
+  ]
+}
